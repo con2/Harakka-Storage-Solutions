@@ -2,7 +2,7 @@
 
 A comprehensive platform for managing and booking storage items across multiple locations. This application allows users to browse available storage options, make reservations, and manage their bookings through an intuitive interface.
 
-[![License](https://img.shields.io/badge/license-Non--Commercial-red.svg)](./LICENSE)
+[![License](https://img.shields.io/badge/license-AGPL--v3-blue.svg)](./LICENSE)
 
 ## Features
 
